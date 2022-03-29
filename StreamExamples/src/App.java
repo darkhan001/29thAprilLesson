@@ -29,6 +29,8 @@ public class App {
         list.add(new Smartphone("Iphone 8", 650, 2017, 128, Color.GOLD, 4.7));
         list.add(new Smartphone("Iphone 9", 700, 2018, 128, Color.GOLD, 5.5));
         list.add(new Smartphone("Iphone 10", 750, 2019, 128, Color.ROSE, 5.8));
+	//Future iphone
+	list.add(new Smarphone("Iphone 20",800,2040,126,Color.Black,6.0));
     }
 
     public static void main(String[] args) throws Exception {
